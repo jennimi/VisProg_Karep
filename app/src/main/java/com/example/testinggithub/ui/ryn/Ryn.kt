@@ -1,5 +1,7 @@
 package com.example.testinggithub.ui.ryn
 
-class Ryn {
+class Ryn (
+    val name: String = "Karyna"
+){
 
 }
